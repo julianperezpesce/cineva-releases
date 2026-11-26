@@ -1,0 +1,12 @@
+{
+  "metas": [
+    {
+      "id": "cinevaopen:caminandes",
+      "type": "series",
+      "name": "Caminandes",
+      "releaseInfo": "2013–2016",
+      "poster": "https://raw.githubusercontent.com/julianperezpesce/cineva-releases/main/open/poster/caminandes.png",
+      "description": "Serie de cortos animados de licencia abierta. Créditos y licencias por episodio."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "id": "cinevaopen:caminandes",
+    "type": "series",
+    "name": "Caminandes",
+    "releaseInfo": "2013–2016",
+    "poster": "https://raw.githubusercontent.com/julianperezpesce/cineva-releases/main/open/poster/caminandes.png",
+    "description": "Serie de cortos animados de licencia abierta. Créditos y licencias por episodio.",
+    "videos": [
+      {
+        "id": "cinevaopen:caminandes:1:1",
+        "title": "Llama Drama",
+        "season": 1,
+        "episode": 1,
+        "overview": "Pablo Vazquez, Beorn Leonard, Francesco Siddi; music and sound: Jan Morgenstern | CC BY/3.0 | https://creativecommons.org/licenses/by/3.0/ | https://commons.wikimedia.org/wiki/File:Caminandes-_Llama_Drama_-_Short_Movie.ogv | Wikimedia transcode, 720p VP9.",
+        "available": true
+      },
+      {
+        "id": "cinevaopen:caminandes:1:2",
+        "title": "Gran Dillama",
+        "season": 1,
+        "episode": 2,
+        "overview": "(CC) caminandes.com | CC BY-SA/3.0 | https://creativecommons.org/licenses/by-sa/3.0/ | https://commons.wikimedia.org/wiki/File:Caminandes_-_Gran_Dillama_-_Blender_Foundation%27s_new_Open_Movie.webm",
+        "available": true
+      },
+      {
+        "id": "cinevaopen:caminandes:1:3",
+        "title": "Llamigos",
+        "season": 1,
+        "episode": 3,
+        "overview": "Blender Foundation / Pablo Vazquez | CC BY/3.0 | https://creativecommons.org/licenses/by/3.0/ | https://commons.wikimedia.org/wiki/File:Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm",
+        "available": true
+      }
+    ]
+  }
+}

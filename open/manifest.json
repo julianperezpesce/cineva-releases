@@ -1,0 +1,30 @@
+{
+  "id": "com.cineva.open",
+  "version": "1.0.0",
+  "name": "Cineva Open",
+  "description": "Películas y series de licencia abierta; enlaces directos a Wikimedia Commons.",
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "cinevaopen:"
+  ],
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "open-films",
+      "name": "Películas abiertas"
+    },
+    {
+      "type": "series",
+      "id": "open-series",
+      "name": "Series abiertas"
+    }
+  ]
+}

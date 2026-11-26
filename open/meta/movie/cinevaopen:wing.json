@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "cinevaopen:wing",
+    "type": "movie",
+    "name": "Wing It!",
+    "releaseInfo": "2023",
+    "poster": "https://raw.githubusercontent.com/julianperezpesce/cineva-releases/main/open/poster/wing.png",
+    "description": "Cortometraje de licencia abierta. Blender Foundation | CC BY/4.0 | https://creativecommons.org/licenses/by/4.0/ | https://commons.wikimedia.org/wiki/File:WING_IT%21_-_Blender_Open_Movie-full_movie.webm",
+    "links": [
+      {
+        "name": "Fuente original",
+        "category": "Source",
+        "url": "https://commons.wikimedia.org/wiki/File:WING_IT%21_-_Blender_Open_Movie-full_movie.webm"
+      },
+      {
+        "name": "Licencia",
+        "category": "License",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  }
+}
